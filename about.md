@@ -12,4 +12,6 @@ Space is cool and I want people to know about it.
 
 Here's Maxwell, he is cool :)
 
+Say Hi before he disappears
+
 <img class="about" alt="torc" src="/images/torc.png">
